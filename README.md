@@ -28,8 +28,7 @@ Wanderlust is a web application where users can upload pictures of their houses 
 
 ## Usage
 
-1. **Sign Up or Log In**: Create an account or log in to your existing account.
-2. **Post a Property**: Upload pictures and provide details about your house or villa.
+1. **Post a Property**: Upload pictures and provide details about your house or villa.
 3. **Browse Listings**: View properties listed by other users.
 4. **Add Reviews**: Leave feedback on properties.
 5. **Manage Posts**: Edit or delete your posts as needed.
