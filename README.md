@@ -9,7 +9,7 @@ Wanderlust is a web application where users can upload pictures of their houses 
 - **View Properties**: Browse through listings posted by other users.
 - **Add Reviews**: Leave feedback on properties listed by others.
 - **Edit/Delete Posts**: Owners can manage their posts by editing or deleting them.
-- **Authentication**: Secure user authentication and session management with Passport.js.
+
 
 ---
 
